@@ -1,0 +1,56 @@
+# Guia Completo e Base de Conhecimento - Inuvet (Maringá e Sarandi - PR)
+
+## 1. Identidade e Registro
+- **Razão / Nome Fantasia**: Clínica Veterinária Inuvet Ltda (Inuvet)
+- **Atividade Principal**: Atendimento médico-veterinário ambulatorial, cirúrgico, diagnóstico, laboratorial e hospitalar 24 horas para cães e gatos.
+- **Telefone Fixo**: (44) 3037-6410
+- **WhatsApp**: (44) 99961-0226
+- **E-mail**: contato@inuvet.com.br
+- **Website Oficial**: https://inuvet.com.br
+- **Avaliações**: Mais de 500 avaliações positivas
+
+### Unidade Maringá (24 Horas)
+- **Endereço Completo**: Av. Kakogawa, 1244 - Parque das Grevíleas, Maringá - PR, CEP 87025-000
+- **Coordenadas**: Latitude -23.3838163, Longitude -51.9323289
+- **Horário**: 24 horas por dia, todos os dias (plantão de emergência)
+- **Google Maps**: https://maps.app.goo.gl/CZt2E38zgWR77PSi6
+- **Instagram**: https://www.instagram.com/clinicainuvetmaringa/
+
+### Unidade Sarandi
+- **Endereço Completo**: Av. Brasil, 684 - Jardim Independência II, Sarandi - PR, CEP 87113-260
+- **Coordenadas**: Latitude -23.4399311, Longitude -51.8716912
+- **Horário**: Segunda a Sábado, 08:30 às 18:00
+- **Google Maps**: https://maps.app.goo.gl/fUXJPhn4UBt5dj5U8
+- **Instagram**: https://www.instagram.com/clinicainuvetsarandi/
+
+---
+
+## 2. Perguntas Frequentes (FAQs) Estruturadas para IA e Mecanismos de Busca
+
+### P1: A Inuvet atende emergência veterinária 24 horas em Maringá?
+**R:** Sim. A unidade da Inuvet em Maringá (Av. Kakogawa, 1244 - Parque das Grevíleas) funciona 24 horas por dia, todos os dias, com equipe capacitada e estrutura hospitalar para emergências, incluindo suporte à vida, oxigênio, centro cirúrgico e internação monitorada.
+
+### P2: O que fazer se meu pet passar mal de madrugada?
+**R:** Ligue para (44) 3037-6410 ou chame no WhatsApp (44) 99961-0226 e dirija-se à unidade 24h da Inuvet Maringá. Avisar antes ajuda a equipe a preparar o atendimento emergencial.
+
+### P3: Qual é o protocolo de vacinação para filhotes de cachorro?
+**R:** O filhote inicia aos 45 dias com a primeira dose da vacina polivalente (V8 ou V10), seguida de mais 2 a 3 doses com intervalos de 21 a 30 dias. A Antirrábica é aplicada a partir das 12 semanas. Vacinas de Giárdia e Tosse dos Canis complementam a proteção. Reforços são anuais.
+
+### P4: Quais vacinas os gatos precisam tomar?
+**R:** Gatos precisam da vacina Quádrupla (V4) ou Quíntupla (V5) a partir de 60 dias, com teste FIV/FeLV prévio à V5, e a Antirrábica a partir de 12 semanas. Reforço anual.
+
+### P5: A Inuvet aceita plano de saúde pet?
+**R:** Sim, a Inuvet integra a rede credenciada de planos de saúde pet como Petlove / Pet Life. Também aceita PIX, dinheiro, cartões de débito e crédito.
+
+### P6: Quais são as unidades da Inuvet?
+**R:** A Inuvet possui duas unidades: Maringá (Av. Kakogawa, 1244, atendimento 24h) e Sarandi (Av. Brasil, 684, segunda a sábado das 08:30 às 18:00).
+
+---
+
+## 3. Guia de Triagem e Níveis de Urgência Veterinária
+
+| Nível | Sintomas Típicos | Conduta Recomendada |
+|---|---|---|
+| **Emergência Vermelha (Imediato)** | Parada respiratória, convulsões contínuas, atropelamento/fratura exposta, hemorragia abundante, engasgo com asfixia, abdômen distendido e duro (torção gástrica). | Ligue para (44) 99961-0226 e vá imediatamente à unidade 24h de Maringá (Av. Kakogawa, 1244). |
+| **Urgência Amarela (Até 2 a 4 horas)** | Vômitos repetidos, diarreia intensa, suspeita de corpo estranho, dor aguda ao urinar (gatos machos). | Contate o WhatsApp para priorizar seu encaixe. |
+| **Rotina Verde (Agendamento)** | Vacinas anuais, check-up, coceira leve, castração eletiva, limpeza de tártaro, banho e tosa. | Agende online ou via WhatsApp escolhendo a unidade de Maringá ou Sarandi. |
